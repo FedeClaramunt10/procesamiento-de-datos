@@ -1,6 +1,6 @@
-# Procesamiento de Datos
+﻿# Procesamiento de Datos
 
-Trabajos de la materia Procesamiento de Datos (2° cuatrimestre) de la Tecnicatura en Análisis de Datos e Inteligencia Artificial: limpieza, transformación y tratamiento de datasets reales.
+Trabajos de la materia Procesamiento de Datos (2° cuatrimestre) de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial: limpieza, transformación y tratamiento de datasets reales.
 
 ## Notebooks
 
